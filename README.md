@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+M-1 I'm currently learning Java, SQL, and JS/CSS/HTML at TechElevator
+~D Pronouns: He/Him
